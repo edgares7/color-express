@@ -1,4 +1,4 @@
-# di-cook
+# color-express
 
 ## Project setup
 ```
